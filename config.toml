@@ -8,18 +8,14 @@ theme = "redink"
   url = "/"
   weight = 1
 [[menu.main]]
-  name = "about us"
-  url = "/about"
-  weight = 2
-[[menu.main]]
   name = "services"
   url = "/services"
   weight = 3
 [[menu.main]]
   name = "core values"
-  url = "/core-values"
+  url = "/core"
   weight = 4
 [[menu.main]]
   name = "our principles"
-  url = "/our-principles"
+  url = "/principles"
   weight = 5
