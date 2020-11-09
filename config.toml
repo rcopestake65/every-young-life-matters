@@ -1,0 +1,25 @@
+baseURL = "http://everyyounglifematters.org/"
+languageCode = "en-us"
+title = "Every Young Life Matters"
+theme = "redink"
+
+[[menu.main]]
+  name = "home"
+  url = "/"
+  weight = 1
+[[menu.main]]
+  name = "about us"
+  url = "/about"
+  weight = 2
+[[menu.main]]
+  name = "services"
+  url = "/services"
+  weight = 3
+[[menu.main]]
+  name = "core values"
+  url = "/core-values"
+  weight = 4
+[[menu.main]]
+  name = "our principles"
+  url = "/our-principles"
+  weight = 5
