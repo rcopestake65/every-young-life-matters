@@ -156,7 +156,7 @@ body{
     /*margin-left: 20px;*/
   }
 .border{
-  background-image: url(/images/lines.jpg);
+  background-image: url(../images/lines.jpg);
   height: 40px;
   background-repeat: repeat-x;
 }
