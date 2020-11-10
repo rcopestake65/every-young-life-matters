@@ -1,6 +1,6 @@
 ---
-title: "Principles"
-date: 2020-11-09T16:17:37Z
+title: "Every Young Life Matters: Our Principles"
+date: 'November 2020'
 layout: principles
 ---
 

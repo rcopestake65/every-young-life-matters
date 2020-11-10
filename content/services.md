@@ -1,6 +1,6 @@
 ---
-title: "Services"
-date: 2020-11-09T16:06:19Z
+title: "Every Young Life Matters: Our Services"
+date: 'November 2020'
 layout: services
 ---
 

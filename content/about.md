@@ -1,6 +1,6 @@
 ---
-title: "About"
-date: 2020-11-09T14:54:57Z
+title: "Every Young Life Matters: About"
+date: 'November 2020'
 layout: about
 ---
 
